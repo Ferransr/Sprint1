@@ -63,7 +63,10 @@
         .aside{
             background: #f73f52;
             flex: 1 1 auto;
-        }    
+        }
+            .anuncios{
+                background: #e6af2e;
+            }
             
 
     .footer{
@@ -73,7 +76,7 @@
     }
         .pie{
             background: #e6af2e;
-            width: 300px;
+            width: 100%;
         }
 
 @media all and (max-width: 800px){
